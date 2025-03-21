@@ -16,7 +16,7 @@
 
 ## Server
 
-![Uploading {ADBDE1ED-F6F2-4132-9FFD-5B520B916418}.png…]()
+![{ADBDE1ED-F6F2-4132-9FFD-5B520B916418}](https://github.com/user-attachments/assets/0e435f1c-80ad-4eac-9402-b717e93a6b73)
 
 
 ## OUPUT
